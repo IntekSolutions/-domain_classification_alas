@@ -66,6 +66,8 @@
 
 This dataset was created by PT Intercultural Technology Solutions in partnership with International Literacy and Development. Intek Solutions tested their crowdsourced language dataset creation app, ikata, in the [Alas language](https://en.wikipedia.org/wiki/Alas_language) of Southeast Aceh in Indonesia. This data was contributed by individual users responding in Alas in the Android app to open ended prompts given in Indonesian. As users earn points they are compensated with micropayments based on the amount of data contributed which is confirmed to be Alas. There is also about 1500 sentences which were collected manually from three unique speakers in a separate project which has been included in the dataset.  
 
+The dataset contains 142654 total words and 18382 unique words. This includes 86,825 unique bigrams and 130,380 unique trigrams
+
 The nature of the data collection process lends itself to messy data. Alas is spoken by approximately 90,000 speakers, but is rarely written and the orthography is not standardized. As such, this dataset will require a layer of standardization prior to use. The data was collected with open ended questions designed to elicit responses in one of four domains:
 *  Story/narrative
 *  History
