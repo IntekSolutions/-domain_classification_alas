@@ -78,9 +78,9 @@ If the domain is unknown the domain column is left null. In some cases ikata was
 
 The dataset count per domain is:
 
-|Story/narrative|History|Culture/tourism|Instructions|
-|---|---|---|---|
-|6576|1663|1498|2449|
+|Story/narrative|History|Culture/tourism|Instructions|Total|
+|---|---|---|---|---|
+|6,576|1,663|1,498|2,449|12,186|
 
 An example of the necessary standardization is that Alas typically uses 'kh' in place of 'r'. However, due to influence from Indonesian, both occur throughout the dataset. There are also a number of words which are often abbreviated, for example malet becomes mlt, etc. 
 
