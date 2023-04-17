@@ -7,3 +7,4 @@
 - Added this changelog :)
 - Added license
 - Initial dataset upload
+- Preliminary stopwords list upload
