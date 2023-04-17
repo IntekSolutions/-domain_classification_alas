@@ -39,6 +39,8 @@
     Crowdsourced data in the Alas language to be used for Low-Resource domain classification.
     <br />
     <a href="https://github.com/IntekSolutions/domain_classification_alas/issues">Make Suggestion</a>
+    <br />
+    <a href="https://github.com/IntekSolutions/domain_classification_alas/blob/main/README_IND.md">     Indonesian</a>
   </p>
 </div>
 
