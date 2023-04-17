@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.0.0
+## v1.0.0 17/04/2023
 
 ### Added or Changed
 - Added this changelog :)
