@@ -66,7 +66,7 @@
 
 This dataset was created by PT Intercultural Technology Solutions in partnership with International Literacy and Development. Intek Solutions tested their crowdsourced language dataset creation app, ikata, in the [Alas language](https://en.wikipedia.org/wiki/Alas_language) of Southeast Aceh in Indonesia. This data was contributed by individual users responding in Alas in the Android app to open ended prompts given in Indonesian. As users earn points they are compensated with micropayments based on the amount of data contributed which is confirmed to be Alas. There is also about 1500 sentences which were collected manually from three unique speakers in a separate project which has been included in the dataset.  
 
-The dataset contains 142654 total words and 18382 unique words. This includes 86,825 unique bigrams and 130,380 unique trigrams
+The dataset contains 185,350 total words and 19,262 unique words. This includes 91,320 unique bigrams and 142,531 unique trigrams
 
 The nature of the data collection process lends itself to messy data. Alas is spoken by approximately 90,000 speakers, but is rarely written and the orthography is not standardized. As such, this dataset will require a layer of standardization prior to use. The data was collected with open ended questions designed to elicit responses in one of four domains:
 *  Story/narrative
@@ -76,31 +76,37 @@ The nature of the data collection process lends itself to messy data. Alas is sp
   
 If the domain is unknown the domain column is left null. In some cases ikata was able to also elicit the Indonesian back translation. In that case the back translation was included as well. The purpose of this project was to test the ikata data collection tool and to see if the dataset created could be used for training a Domain Classification model in a low to no-resource language context. 
 
+The dataset count per domain is:
+
+|Story/narrative|History|Culture/tourism|Instructions|
+|---|---|---|---|
+|6576|1663|1498|2449|
+
 An example of the necessary standardization is that Alas typically uses 'kh' in place of 'r'. However, due to influence from Indonesian, both occur throughout the dataset. There are also a number of words which are often abbreviated, for example malet becomes mlt, etc. 
 
-Please use caution as there is bias in the data. Most notably the app collected data skews to a younger age bracket. There was also data collected at two in person events where a group of people downloaded the app and used it together. There were a number of people who filled in prompts manually outside of the app and the data was entered manually into the dataset. While we do not have the demographic data ont hose contributors, they did tend to fall into the 25-34 and 35-44 age brackets. The manually collected data skews a little older. With all demographic data, the majority of users either chose to not disclose their data or deleted their app accounts which also deleted their metadata. The data comes from a total of 181 people.  Based on the information we have here are some of the demographic breakdowns in the data:
+Please use caution as there is bias in the data. Most notably the app collected data skews to a younger age bracket. There was also data collected at two in-person events where a group of people downloaded the app and used it together. There were a number of people who filled in prompts manually outside of the app and the data was entered manually into the dataset. While we do not have the demographic data ont hose contributors, they did tend to fall into the 25-34 and 35-44 age brackets. The manually collected data skews a little older. With all demographic data, the majority of users either chose to not disclose their data or deleted their app accounts which also deleted their metadata. The data comes from a total of 181 people.  Linguistically, as a general rule, the older age groups use more proper Alas and the younger age groups use a more informal Alas with a little more mixing with Indonesian. Based on the information we have here are some of the demographic breakdowns in the data:
 
 |age|Number of sentences|Number of People|
 |---|---|---|
-|18-24|1526|16|
-|25-34|247|8|
-|35-44|328|3|
+|18-24|2436|18|
+|25-34|300|9|
+|35-44|324|3|
 |45-54|0|0|
 |55-64|1284|1|
 |65+|0|0|
-|Not Disclosed|7179|153|
+|Not Disclosed|8007|152|
 
-Data was reported from users living in 17 separate counties. 16 of those counties are in Aceh Tenggara.
+Data was reported from users living in 17 separate counties. 16 of those counties are in Aceh Tenggara. The other location was Berastagi in North Sumatra.
 
 Interestingly, about 4.8% of the data is reported as coming from Batak, Javanese, and Gayo speakers. Southeast Aceh is very diverse and each of these ethnic groups is present. There is also linguistic similarity between Alas and Gayo and Batak in particular. 
 
 |Ethnicity|Number of sentences|Number of People|
 |---|---|---|
-|Alas|3692|23|
-|Batak|287|2|
-|Java|150|3|
-|Gayo|70|4|
-|Not Disclosed|6365|149|
+|Alas|5045|29|
+|Batak|274|2|
+|Java|148|3|
+|Gayo|321|5|
+|Not Disclosed|6563|144|
 
 
 
