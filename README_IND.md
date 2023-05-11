@@ -82,7 +82,7 @@ Jumlah dataset per domain adalah:
 
 |Cerita/narasi|Sejarah|Budaya/pariwisata|Petunjuk|Jumlah|
 |---|---|---|---|---|
-|6.576|1.663|1.498|2.449|12.186|
+|9.128|2.735|2.215|1.952|16.030|
 
 Contoh standardisasi yang diperlukan adalah Alas biasanya menggunakan 'kh' sebagai pengganti 'r'. Namun, karena pengaruh bahasa Indonesia, keduanya terjadi di seluruh dataset. Ada juga beberapa kata yang sering disingkat, misalnya malet menjadi mlt, dll.
 
@@ -90,13 +90,13 @@ Harap berhati-hati karena ada bias dalam data. Terutama aplikasi yang mengumpulk
 
 |Umur|Jumlah kalimat|Jumlah Orang|
 |---|---|---|
-|18-24|2436|18|
-|25-34|300|9|
-|35-44|324|3|
+|18-24|2568|20|
+|25-34|796|10|
+|35-44|190|3|
 |45-54|0|0|
 |55-64|1284|1|
 |65+|0|0|
-|Tidak Diungkapkan|8007|152|
+|Tidak Diungkapkan|11197|156|
 
 Data dilaporkan dari pengguna yang tinggal di 17 kabupaten terpisah. 16 kabupaten di antaranya berada di Aceh Tenggara. Lokasi lainnya adalah Berastagi di Sumatera Utara.
 
@@ -104,11 +104,11 @@ Menariknya, sekitar 6,1% dari data dilaporkan berasal dari penutur Batak, Jawa, 
 
 |Suku|Jumlah kalimat|Jumlah Orang|
 |---|---|---|
-|Alas|5045|29|
-|Batak|274|2|
-|Jawa|148|3|
-|Gayo|321|5|
-|Tidak Diungkapkan|6563|144|
+|Alas|4095|25|
+|Batak|272|2|
+|Java|146|3|
+|Gayo|1301|8|
+|Tidak Diungkapan|10221|150|
 
 
 
