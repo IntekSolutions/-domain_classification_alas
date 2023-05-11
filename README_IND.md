@@ -68,7 +68,7 @@
 
 Dataset ini dibuat oleh PT Intercultural Technology Solutions bekerja sama dengan International Literacy and Development. Intek Solutions menguji aplikasi pembuatan kumpulan data bahasa urun daya mereka, ikata, dalam [bahasa Alas](https://en.wikipedia.org/wiki/Alas_language) Aceh Tenggara di Indonesia. Data ini disumbangkan oleh masing-masing pengguna yang menanggapi Alas di aplikasi Android untuk membuka petunjuk yang diberikan dalam bahasa Indonesia. Saat pengguna mendapatkan poin, mereka diberi kompensasi dengan pembayaran mikro berdasarkan jumlah data yang disumbangkan yang dipastikan sebagai Alas. Ada juga sekitar 1500 kalimat yang dikumpulkan secara manual dari tiga pembicara unik dalam proyek terpisah yang telah dimasukkan ke dalam dataset.
 
-Dataset berisi total 185.350 kata dan 19.262 kata unik. Ini termasuk 91.320 bigram unik dan 142.531 trigram unik
+Dataset berisi total 238.305  kata dan 22.264 kata unik. Ini termasuk 103.287 bigram unik dan 145.686 trigram unik.
 
 Sifat dari proses pengumpulan data cocok untuk data yang berantakan. Alas dituturkan oleh sekitar 90.000 penutur, tetapi jarang ditulis dan ortografinya tidak baku. Dengan demikian, kumpulan data ini akan membutuhkan lapisan standardisasi sebelum digunakan. Data dikumpulkan dengan pertanyaan yang dirancang untuk memperoleh tanggapan di salah satu dari empat domain:
 * Cerita / narasi
