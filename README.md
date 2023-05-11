@@ -82,7 +82,7 @@ The dataset count per domain is:
 
 |Story/narrative|History|Culture/tourism|Instructions|Total|
 |---|---|---|---|---|
-|6,576|1,663|1,498|2,449|12,186|
+|9,128|2,735|2,215|1,952|16,030|
 
 An example of the necessary standardization is that Alas typically uses 'kh' in place of 'r'. However, due to influence from Indonesian, both occur throughout the dataset. There are also a number of words which are often abbreviated, for example malet becomes mlt, etc. 
 
@@ -90,13 +90,13 @@ Please use caution as there is bias in the data. Most notably the app collected 
 
 |age|Number of sentences|Number of People|
 |---|---|---|
-|18-24|2436|18|
-|25-34|300|9|
-|35-44|324|3|
+|18-24|2568|20|
+|25-34|796|10|
+|35-44|190|3|
 |45-54|0|0|
 |55-64|1284|1|
 |65+|0|0|
-|Not Disclosed|8007|152|
+|Not Disclosed|11197|156|
 
 Data was reported from users living in 17 separate counties. 16 of those counties are in Aceh Tenggara. The other location was Berastagi in North Sumatra.
 
@@ -104,11 +104,11 @@ Interestingly, about 6.1% of the data is reported as coming from Batak, Javanese
 
 |Ethnicity|Number of sentences|Number of People|
 |---|---|---|
-|Alas|5045|29|
-|Batak|274|2|
-|Java|148|3|
-|Gayo|321|5|
-|Not Disclosed|6563|144|
+|Alas|4095|25|
+|Batak|272|2|
+|Java|146|3|
+|Gayo|1301|8|
+|Not Disclosed|10221|150|
 
 
 
