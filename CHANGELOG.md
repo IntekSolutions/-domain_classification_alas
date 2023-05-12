@@ -14,6 +14,6 @@
 11/05/2023
 
 ### Added or Changed
-- Added 3,844 sentences to dataset
+- Added 3,844 sentences to dataset. Current as of 2023-05-11 13:39:31
 - Updated readme
 
